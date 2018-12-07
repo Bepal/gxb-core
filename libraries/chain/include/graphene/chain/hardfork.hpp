@@ -63,12 +63,12 @@
 
 // set min witness num 21
 #ifndef HARDFORK_1010_TIME
-#define HARDFORK_1010_TIME (fc::time_point_sec( 1544140800 )) // for testnet, 2018-12-07T00:00:00(UTC)
+#define HARDFORK_1010_TIME (fc::time_point_sec( 1944140800 )) // for testnet, 2018-12-07T00:00:00(UTC)
 #endif
 
 // contract call fee
 #ifndef HARDFORK_1011_TIME
-#define HARDFORK_1011_TIME (fc::time_point_sec( 1544112000 )) // for test, 2018-12-07T00:00:00
+#define HARDFORK_1011_TIME (fc::time_point_sec( 1944112000 )) // for test, 2018-12-07T00:00:00
 #endif
 
 
