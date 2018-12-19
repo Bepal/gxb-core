@@ -77,7 +77,7 @@
 
 // call_contract fix fee calculation
 #ifndef HARDFORK_1013_TIME
-#define HARDFORK_1013_TIME (fc::time_point_sec( 1545034200 )) // for test, 2018-12-17T08:10:00(UTC)
+#define HARDFORK_1013_TIME (fc::time_point_sec( 1574812800 )) // for test, 2019-12-17T08:10:00(UTC)
 #endif
 
 // enable witness guaranty
